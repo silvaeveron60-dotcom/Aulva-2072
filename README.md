@@ -10,7 +10,7 @@
        <p>-Uso de vestimentas corretas.</p>
       <p>-A proibição de qualquer xingamento/Bullying</p>
      </p>
-     <img scr"manual do aluno2.jpg">
+     <img src"manual do aluno2.jpg">
      
    </body>
 </html>
