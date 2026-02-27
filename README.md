@@ -10,7 +10,7 @@
        <p>-Uso de vestimentas corretas.</p>
       <p>-A proibição de qualquer xingamento/Bullying</p>
      </p>
-   rir uma imagem:
+   
 
 <img src="manual do aluno2.jpg" alt="Girl in a jacket" width="250" height="350">
      
